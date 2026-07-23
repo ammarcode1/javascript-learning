@@ -10,7 +10,7 @@ This repository documents my journey of learning JavaScript from fundamentals to
 - Control Flow
 - Functions
 - Arrays
-
+- Objects
 ## 📁 Repository Structure
 
 ```text
