@@ -11,6 +11,8 @@ This repository documents my journey of learning JavaScript from fundamentals to
 - Functions
 - Arrays
 - Objects
+- Loops
+- Strings
 ## 📁 Repository Structure
 
 ```text
