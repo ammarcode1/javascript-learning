@@ -14,6 +14,7 @@ This repository documents my journey of learning JavaScript from fundamentals to
 - Loops
 - Strings
 - Array Methods
+- Scope and Hoisting
 ## 📁 Repository Structure
 
 ```text
