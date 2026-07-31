@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/javascript/javascript-variables/
+
 // =======================================
 // Lesson 01 - Homework
 // =======================================
