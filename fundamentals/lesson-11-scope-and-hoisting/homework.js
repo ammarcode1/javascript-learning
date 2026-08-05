@@ -1,3 +1,9 @@
+// https://www.w3schools.com/js/js_scope.asp
+// https://www.w3schools.com/js/js_codeblocks.asp
+// https://www.w3schools.com/js/js_hoisting.asp
+// https://www.w3schools.com/js/js_varletconst.asp
+// https://www.w3schools.com/js/js_strict.asp
+
 // ===============================
 // JavaScript Fundamentals - Lesson 11
 // Homework Solution

@@ -1,3 +1,9 @@
+// https://www.w3schools.com/js/js_strings.asp
+// https://www.w3schools.com/js/js_string_methods.asp
+// https://www.w3schools.com/js/js_string_templates.asp
+// https://www.w3schools.com/js/js_string_search.asp
+// https://www.w3schools.com/js/js_string_reference.asp
+
 // ===============================
 // JavaScript Fundamentals - Lesson 9
 // Practice

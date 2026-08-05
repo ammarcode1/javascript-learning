@@ -1,3 +1,10 @@
+// https://www.w3schools.com/js/js_objects.asp
+// https://www.w3schools.com/js/js_object_intro.asp
+// https://www.w3schools.com/js/js_object_properties.asp
+// https://www.w3schools.com/js/js_object_methods.asp
+// https://www.w3schools.com/js/js_object_this.asp
+// https://www.w3schools.com/js/js_object_display.asp
+
 // Lesson 7 - Objects (Homework)
 
 const student = {

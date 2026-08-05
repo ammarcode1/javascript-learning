@@ -1,3 +1,10 @@
+// http://w3schools.com/js/js_array_methods.asp
+// https://www.w3schools.com/js/js_array_search.asp
+// https://www.w3schools.com/js/js_array_sort.asp
+// https://www.w3schools.com/js/js_array_iteration.asp
+// https://www.w3schools.com/js/js_array_reference.asp
+// https://www.w3schools.com/js/js_array_const.asp
+
 // ===============================
 // JavaScript Fundamentals - Lesson 10
 // Examples

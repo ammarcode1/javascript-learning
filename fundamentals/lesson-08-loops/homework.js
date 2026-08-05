@@ -1,3 +1,10 @@
+// https://www.w3schools.com/js/js_loops.asp
+// https://www.w3schools.com/js/js_loop_for.asp
+// https://www.w3schools.com/js/js_loop_for.asp
+// https://www.w3schools.com/js/js_break.asp
+// https://www.w3schools.com/js/js_continue.asp
+// https://www.w3schools.com/js/js_control_flow.asp
+
 // ================================
 // JavaScript Fundamentals - Lesson 8
 // Homework
