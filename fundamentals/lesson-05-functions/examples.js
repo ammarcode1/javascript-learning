@@ -1,3 +1,12 @@
+// https://www.w3schools.com/js/js_functions.asp
+// https://www.w3schools.com/js/js_function_intro.asp
+// https://www.w3schools.com/js/js_function_invocation.asp
+// https://www.w3schools.com/js/js_function_parameters.asp
+// https://www.w3schools.com/js/js_function_return.asp
+// https://www.w3schools.com/js/js_function_arguments.asp
+// https://www.w3schools.com/js/js_function_expressions.asp
+// https://www.w3schools.com/js/js_arrow_function.asp
+
 // Lesson 05 - Functions
 
 // --------------------------------------------------

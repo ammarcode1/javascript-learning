@@ -1,3 +1,5 @@
+// https://www.w3schools.com/js/js_datatypes.asp
+
 // =======================================
 // Lesson 02 - Data Types (Examples)
 // =======================================
